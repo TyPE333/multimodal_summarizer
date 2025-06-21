@@ -50,7 +50,7 @@ The Multi-modal AI Agent addresses this challenge through a three-tier architect
 
 #### 2.2.2 Backend Layer (FastAPI)
 - **Technology**: FastAPI 0.104.1 with Uvicorn
-- **Purpose**: API orchestration and business logic
+- **Purpose**: API orchestration and core logic
 - **Features**:
   - RESTful API endpoints
   - Async request handling
@@ -441,12 +441,3 @@ The system successfully addresses the original problem statement by providing co
 - **AI/ML**: OpenAI GPT, Anthropic Claude, CLIP, EasyOCR, YOLOS
 - **Infrastructure**: Docker, Docker Compose, Nginx
 - **Languages**: Python 3.9+, JavaScript (Playwright)
-
-### 12.3 Performance Benchmarks
-- **Processing Speed**: 30-120 seconds per URL
-- **Concurrent Users**: 10+ simultaneous requests
-- **Accuracy**: 85%+ confidence scores
-- **Uptime**: 99%+ availability
-- **Cache Hit Rate**: 70%+ for repeated requests
-
-This technical report demonstrates that the Multi-modal AI Agent is a sophisticated, production-ready system that successfully addresses complex content analysis challenges through innovative AI integration and robust engineering practices.

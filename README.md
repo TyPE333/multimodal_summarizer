@@ -3,7 +3,7 @@
 
 A comprehensive AI system that leverages both text and image modalities to create engaging and comprehensive content summarization experiences, mimicking the capabilities of advanced multimodal LLMs.
 
-## Problem Statement
+## Pain Point and solution
 
 Summarizing complex online content (articles, reports, research papers) isn't just about text. Visuals (charts, diagrams, key images) often convey critical information. This AI agent can summarize web articles/reports, extract key information from images, and present a consolidated, multi-modal summary.
 

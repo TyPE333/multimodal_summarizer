@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# summa_vue
- A Multimodal AI agent that ingests web articles, extracts and interprets images (via CLIP/OCR), and synthesizes a structured, multi-modal summary using LLMs.
-=======
+
 # Multi-modal AI Agent for Interactive Content Summarization
 
 A comprehensive AI system that leverages both text and image modalities to create engaging and comprehensive content summarization experiences, mimicking the capabilities of advanced multimodal LLMs.

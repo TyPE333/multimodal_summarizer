@@ -1,4 +1,4 @@
-# Technical Report: Multi-modal AI Agent for Interactive Content Summarization
+# Multi-modal AI Agent for Interactive Content Summarization
 
 ## Executive Summary
 

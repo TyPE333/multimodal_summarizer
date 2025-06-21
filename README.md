@@ -226,4 +226,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Hugging Face for transformers library
 - Microsoft for Playwright
 - JaidedAI for EasyOCR
->>>>>>> fbb8066 (Multi-modal AI Agent summarizer)

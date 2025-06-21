@@ -1,6 +1,6 @@
 # Multi-modal AI Agent for Interactive Content Summarization
 
-## Executive Summary
+## Summary
 
 This technical report provides a comprehensive analysis of the Multi-modal AI Agent, a sophisticated system that combines web scraping, computer vision, and large language models to create comprehensive content summaries. The application demonstrates advanced AI engineering capabilities across multiple domains, including natural language processing, computer vision, web automation, and full-stack development.
 
